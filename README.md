@@ -20,7 +20,24 @@ As the complexity of web sites increases, various types of efficient web sites a
 
 # Features
 
-# Install The Tutorial
+- Enter `Articles` to see the bookmark information of the added webpage, click the corresponding bookmark to skip to the corresponding webpage.
+![](./images/has-art.png)
+
+- If you are a Group member, you can exit your Group in `User`.
+- Group creators can remove other added User members from `User`
+![](./images/user.png)
+
+- Group enrollees cannot see the `Leader Admin`page, which is only a function used by Group creators
+- Group creators can update their `Group ID`, add/remove Group Tags, delete articles, and disband the current Group
+![](./images/admin.png)
+
+# Install
+
+1. Download [tnshare.crx](https://github.com/betterTisen/Tnshare_Doc/releases) package
+2. Copy and paste `chrome://extensions/` into the address，Press Enter to the extension page
+3. Install extension：Developer mode -> Refresh -> Drag the downloaded `tnshare-crx` file into the extension
+
+![](./images/extension-en.png)
 
 # End
 
