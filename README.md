@@ -20,6 +20,30 @@ As the complexity of web sites increases, various types of efficient web sites a
 
 # Features
 
+This system is used to add and shared bookmarks on your web to improve the efficiency of collaborative work.
+
+## Chrome Extension
+
+- Registration and Login: The password of the account should be more than three characters, and there should be no special characters.
+
+<img width="200px" src="./images/login.png" align="center" alt="Tnshare Login" />
+
+- After successful login, you can choose to join a Group or create a Group.
+
+<img width="200px" src="./images/no-group.png" align="center" alt="Tnshare Login" />
+
+- Creating a Group generates a Group ID for others to join. And you can enter the corresponding Group ID to join other Group,. 
+- After joining/creating the Group successfully, click `Linked To Admin Page` To enter the bookmark management system
+
+<img width="200px" src="./images/create-group.png" align="center" alt="Tnshare Login" />
+<img width="200px" src="./images/add-group.png" align="center" alt="Tnshare Login" />
+
+- You can also add articles to the Group, and the plug-in will automatically fill in the information of the page you are on, you just need to select the corresponding label
+
+<img width="200px" src="./images/add-art.png" align="center" alt="Tnshare Login" />
+
+## Bookmark Management System
+
 - Enter `Articles` to see the bookmark information of the added webpage, click the corresponding bookmark to skip to the corresponding webpage.
 ![](./images/has-art.png)
 
