@@ -8,7 +8,7 @@
   |
   <a href="#user-content-features">Features</a>
   |
-  <a href="#user-content-install-the-tutorial">Install</a>
+  <a href="#user-content-install">Install</a>
 </p>
 <p align="center">
   <a href="/README.md">Englisn </a>
