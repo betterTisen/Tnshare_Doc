@@ -66,3 +66,7 @@ This system is used to add and shared bookmarks on your web to improve the effic
 # End
 
 As this project is in the operational stage, there is no plan to open source for the time being, and the front-end part may be open source in the future. Thank you for your support and understanding
+
+## 2020.10.15
+
+⚠️ The Chrome Extension is now open source, and the service is still available in Chrome store, but it does not guarantee data stability. If any usage requirements can be raised in ISSure, the full source code will be open later
