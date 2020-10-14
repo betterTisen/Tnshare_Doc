@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "Tnshare",
+  "description": "A plugin for sharing knowledge and common tools",
+  "version": "1.0",
+
+  "permissions": ["tabs", "storage"],
+  "icons": {
+    "322": "icon.png"
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["./contentScripts/get_data.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "content_security_policy": "script-src 'self' 'sha256-hrABjXgkmzJSAYJz7Tb8+vCZlVwt6UMWGfHKxDlE+2k='; object-src 'self'"
+}
