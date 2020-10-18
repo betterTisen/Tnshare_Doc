@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://cdn.byeguo.cn/tnshare/logo.png" align="center" alt="Tnshare Logo" />
+ <img width="100px" src="https://cdn.jsdelivr.net/gh/betterTisen/Tnshare_Doc/images/logo.png" align="center" alt="Tnshare Logo" />
  <h2 align="center">Tnshare Tutorial</h2>
  <p align="center">A Chrome Bookmarklet Sharing System</p>
 </p>
@@ -26,34 +26,34 @@ This system is used to add and shared bookmarks on your web to improve the effic
 
 - Registration and Login: The password of the account should be more than three characters, and there should be no special characters.
 
-<img width="200px" src="https://cdn.byeguo.cn/tnshare/login.png" align="center" alt="Tnshare Login" />
+<img width="200px" src="https://cdn.jsdelivr.net/gh/betterTisen/Tnshare_Doc/images/login.png" align="center" alt="Tnshare Login" />
 
 - After successful login, you can choose to join a Group or create a Group.
 
-<img width="200px" src="https://cdn.byeguo.cn/tnshare/no-group.png" align="center" alt="Tnshare Login" />
+<img width="200px" src="https://cdn.jsdelivr.net/gh/betterTisen/Tnshare_Doc/images/no-group.png" align="center" alt="Tnshare Login" />
 
 - Creating a Group generates a Group ID for others to join. And you can enter the corresponding Group ID to join other Group,. 
 - After joining/creating the Group successfully, click `Linked To Admin Page` To enter the bookmark management system
 
-<img width="200px" src="https://cdn.byeguo.cn/tnshare/create-group.png" align="center" alt="Tnshare Login" />
-<img width="200px" src="https://cdn.byeguo.cn/tnshare/add-group.png" align="center" alt="Tnshare Login" />
+<img width="200px" src="https://cdn.jsdelivr.net/gh/betterTisen/Tnshare_Doc/images/create-group.png" align="center" alt="Tnshare Login" />
+<img width="200px" src="https://cdn.jsdelivr.net/gh/betterTisen/Tnshare_Doc/images/add-group.png" align="center" alt="Tnshare Login" />
 
 - You can also add articles to the Group, and the plug-in will automatically fill in the information of the page you are on, you just need to select the corresponding label
 
-<img width="200px" src="https://cdn.byeguo.cn/tnshare/add-art.png" align="center" alt="Tnshare Login" />
+<img width="200px" src="https://cdn.jsdelivr.net/gh/betterTisen/Tnshare_Doc/images/add-art.png" align="center" alt="Tnshare Login" />
 
 ## Bookmark Management System
 
 - Enter `Articles` to see the bookmark information of the added webpage, click the corresponding bookmark to skip to the corresponding webpage.
-![](https://cdn.byeguo.cn/tnshare/has-art.png)
+![](https://cdn.jsdelivr.net/gh/betterTisen/Tnshare_Doc/images/has-art.png)
 
 - If you are a Group member, you can exit your Group in `User`.
 - Group creators can remove other added User members from `User`
-![](https://cdn.byeguo.cn/tnshare/user.png)
+![](https://cdn.jsdelivr.net/gh/betterTisen/Tnshare_Doc/images/user.png)
 
 - Group enrollees cannot see the `Leader Admin`page, which is only a function used by Group creators
 - Group creators can update their `Group ID`, add/remove Group Tags, delete articles, and disband the current Group
-![](https://cdn.byeguo.cn/tnshare/admin.png)
+![](https://cdn.jsdelivr.net/gh/betterTisen/Tnshare_Doc/images/admin.png)
 
 # Install
 
@@ -61,7 +61,7 @@ This system is used to add and shared bookmarks on your web to improve the effic
 2. Copy and paste `chrome://extensions/` into the address，Press Enter to the extension page
 3. Install extension：Developer mode -> Refresh -> Drag the downloaded `tnshare-crx` file into the extension
 
-![](https://cdn.byeguo.cn/tnshare/extension-en.png)
+![](https://cdn.jsdelivr.net/gh/betterTisen/Tnshare_Doc/images/extension-en.png)
 
 # End
 
